@@ -1,8 +1,5 @@
 # multiplayerTicTacToe
 
-## Links
-* [Youtube](https://youtu.be/G7XM1zFFIxo) - Testing video.
-
 ## Made with:
 * Socket.io 
 * React
